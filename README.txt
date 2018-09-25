@@ -1,6 +1,6 @@
 #install ssr 
 yum -y install wget
-wget -N --no-check-certificate https://github.com/ccmShion/What/blob/master/ssr.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/ccmShion/What/master/ssr.sh
 chmod +x ssr.sh
 bash ssr.sh
 
